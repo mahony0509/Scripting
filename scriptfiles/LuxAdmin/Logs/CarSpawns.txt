@@ -1,0 +1,12 @@
+[14/03/2015 | 15:52:15] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (16, 1), Pos: X:2050.17, Y:1378.70, Z:10.67
+[14/03/2015 | 16:18:09] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (17, 1), Pos: X:2064.83, Y:1375.50, Z:10.67
+[14/03/2015 | 16:18:48] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (15, 1), Pos: X:2591.10, Y:1609.70, Z:10.14
+[14/03/2015 | 16:19:15] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (187, 1), Pos: X:2599.57, Y:1602.12, Z:10.82
+[14/03/2015 | 16:33:29] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (186, 1), Pos: X:1481.04, Y:-1748.40, Z:15.44
+[16/03/2015 | 16:14:25] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (16, 1), Pos: X:1487.24, Y:-1737.82, Z:13.54
+[16/03/2015 | 16:14:31] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (16, 1), Pos: X:1485.70, Y:-1736.63, Z:13.38
+[16/03/2015 | 16:14:36] Yoshi_Muramatsu Spawned a "Police Car (LVPD)" (Model:598) Colours (17, 1), Pos: X:1484.99, Y:-1735.03, Z:13.38
+[16/03/2015 | 16:14:45] Ryan_Kingstone Spawned a "Police Car (LVPD)" (Model:598) Colours (16, 1), Pos: X:1485.82, Y:-1736.70, Z:13.38
+[16/03/2015 | 16:16:14] Ryan_Kingstone Spawned a "Bullet" (Model:541) Colours (16, 1), Pos: X:1492.14, Y:-1738.33, Z:13.17
+[16/03/2015 | 16:17:29] Ryan_Kingstone Spawned a "Premier" (Model:426) Colours (3, 3), Pos: X:1469.52, Y:-1731.57, Z:13.00
+[16/03/2015 | 16:18:27] Ryan_Kingstone Spawned a "Premier" (Model:426) Colours (3, 3), Pos: X:1471.81, Y:-1740.93, Z:13.54

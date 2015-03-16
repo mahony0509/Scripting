@@ -1,0 +1,2064 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:20:35] 
+[21:20:35] Server Plugins
+[21:20:35] --------------
+[21:20:35]  Loaded 0 plugins.
+
+[21:20:35] 
+[21:20:35] Filterscripts
+[21:20:35] ---------------
+[21:20:35]   Loading filterscript 'gl_actions.amx'...
+[21:20:35]   Loading filterscript 'gl_realtime.amx'...
+[21:20:35]   Loading filterscript 'gl_property.amx'...
+[21:20:35] 
+-----------------------------------
+[21:20:35] Grand Larceny Property Filterscript		
+[21:20:35] -----------------------------------
+
+[21:20:35]   Loading filterscript 'gl_mapicon.amx'...
+[21:20:35]   Loading filterscript 'ls_elevator.amx'...
+[21:20:36]   Loading filterscript 'attachments.amx'...
+[21:20:36]   Loading filterscript 'skinchanger.amx'...
+[21:20:36] 
+--Admin Player Skin Changer Loaded
+
+[21:20:36]   Loading filterscript 'vspawner.amx'...
+[21:20:36] 
+--Admin Vehicle Spawner Loaded
+
+[21:20:36]   Loading filterscript 'ls_beachside.amx'...
+[21:20:36] 
+
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--- LS BeachSide Filterscript
+[21:20:36]   |--  Script v1.02
+[21:20:36]   |--  10th February 2015
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--  LS BeachSide Building and Interior objects created
+[21:20:36]   |--  LS BeachSide Underground Car Park object created
+[21:20:36]   |--  LS BeachSide Building Elevator created
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   Loading filterscript 'samp_anims.amx'...
+[21:20:36] 
+
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--- SA-MP Animations Filterscript by Matite
+[21:20:36]   |--  Script v1.01
+[21:20:36]   |--  12th January 2015
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   Loading filterscript 'test_cmds.amx'...
+[21:20:36]   Loading filterscript 'sf_building1.amx'...
+[21:20:36] 
+
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--- SF Building 1 Filterscript
+[21:20:36]   |--  Script v1.01
+[21:20:36]   |--  10th February 2015
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--  SF Building 1 Land object created
+[21:20:36]   |--  SF Building 1 Outside object created
+[21:20:36]   |--  SF Building 1 Inside object created
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   Loading filterscript 'ls_prisonwalls.amx'...
+[21:20:36] 
+
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--- LS Prison Walls Filterscript
+[21:20:36]   |--  Script v1.01
+[21:20:36]   |--  13th February 2015
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--  LS Prison Walls object created
+[21:20:36]   |--  LS Prison Walls Gates objects created
+[21:20:36]   |--  LS Prison Wall Gates 3D Text Labels created
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   Loading filterscript 'ls_mall.amx'...
+[21:20:36]   Loading filterscript 'modular_houses.amx'...
+[21:20:36] 
+
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   |--- Modular Houses Filterscript by Matite
+[21:20:36]   |--  Script v1.01
+[21:20:36]   |--  28th February 2015
+[21:20:36]   |---------------------------------------------------
+[21:20:36]   Loaded 15 filterscripts.
+
+[21:20:36] Reading File: blank
+[21:20:36] Reading File: properties/houses.txt
+[21:20:36] Reading File: properties/businesses.txt
+[21:20:36] Reading File: properties/banks.txt
+[21:20:36] Reading File: properties/police.txt
+[21:20:36] Script[gamemodes/basic.amx]: Run time error 19: "File or function is not found"
+[21:20:36] Number of vehicle models: 0
+[21:21:59] --- Server Shutting Down.
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  LS BeachSide Building object destroyed
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  LS BeachSide Building Interior object destroyed
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  LS BeachSide Underground Car Park object destroyed
+[21:21:59]   |--  LS BeachSide Building Elevator destroyed
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  SA-MP Animations Filterscript Unloaded
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  SF Building 1 Land object destroyed
+[21:21:59]   |--  SF Building 1 Outside object destroyed
+[21:21:59]   |--  SF Building 1 Inside object destroyed
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  SF Building 1 Filterscript Unloaded
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  LS Prison Walls object destroyed
+[21:21:59]   |--  LS Prison Walls Eastern Gates object 1 destroyed
+[21:21:59]   |--  LS Prison Walls Eastern Gates object 2 destroyed
+[21:21:59]   |--  LS Prison Walls Southern Gates object 1 destroyed
+[21:21:59]   |--  LS Prison Walls Southern Gates object 2 destroyed
+[21:21:59]   |--  Deleted the 3D Text Labels on the Prison Gates
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  LS Prison Walls Filterscript Unloaded
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |---------------------------------------------------
+[21:21:59]   |--  Modular Houses Filterscript Unloaded
+[21:21:59]   |---------------------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:25:38] 
+[21:25:38] Server Plugins
+[21:25:38] --------------
+[21:25:38]  Loaded 0 plugins.
+
+[21:25:38] 
+[21:25:38] Filterscripts
+[21:25:38] ---------------
+[21:25:38]   Loading filterscript 'gl_actions.amx'...
+[21:25:38]   Loading filterscript 'gl_realtime.amx'...
+[21:25:38]   Loading filterscript 'gl_property.amx'...
+[21:25:38] 
+-----------------------------------
+[21:25:38] Grand Larceny Property Filterscript		
+[21:25:38] -----------------------------------
+
+[21:25:38]   Loading filterscript 'gl_mapicon.amx'...
+[21:25:38]   Loading filterscript 'ls_elevator.amx'...
+[21:25:38]   Loading filterscript 'attachments.amx'...
+[21:25:38]   Loading filterscript 'skinchanger.amx'...
+[21:25:38] 
+--Admin Player Skin Changer Loaded
+
+[21:25:38]   Loading filterscript 'vspawner.amx'...
+[21:25:38] 
+--Admin Vehicle Spawner Loaded
+
+[21:25:38]   Loading filterscript 'ls_beachside.amx'...
+[21:25:38] 
+
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--- LS BeachSide Filterscript
+[21:25:38]   |--  Script v1.02
+[21:25:38]   |--  10th February 2015
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--  LS BeachSide Building and Interior objects created
+[21:25:38]   |--  LS BeachSide Underground Car Park object created
+[21:25:38]   |--  LS BeachSide Building Elevator created
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   Loading filterscript 'samp_anims.amx'...
+[21:25:38] 
+
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--- SA-MP Animations Filterscript by Matite
+[21:25:38]   |--  Script v1.01
+[21:25:38]   |--  12th January 2015
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   Loading filterscript 'test_cmds.amx'...
+[21:25:38]   Loading filterscript 'sf_building1.amx'...
+[21:25:38] 
+
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--- SF Building 1 Filterscript
+[21:25:38]   |--  Script v1.01
+[21:25:38]   |--  10th February 2015
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--  SF Building 1 Land object created
+[21:25:38]   |--  SF Building 1 Outside object created
+[21:25:38]   |--  SF Building 1 Inside object created
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   Loading filterscript 'ls_prisonwalls.amx'...
+[21:25:38] 
+
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--- LS Prison Walls Filterscript
+[21:25:38]   |--  Script v1.01
+[21:25:38]   |--  13th February 2015
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--  LS Prison Walls object created
+[21:25:38]   |--  LS Prison Walls Gates objects created
+[21:25:38]   |--  LS Prison Wall Gates 3D Text Labels created
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   Loading filterscript 'ls_mall.amx'...
+[21:25:38]   Loading filterscript 'modular_houses.amx'...
+[21:25:38] 
+
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   |--- Modular Houses Filterscript by Matite
+[21:25:38]   |--  Script v1.01
+[21:25:38]   |--  28th February 2015
+[21:25:38]   |---------------------------------------------------
+[21:25:38]   Loaded 15 filterscripts.
+
+[21:25:38] Reading File: blank
+[21:25:38] Reading File: properties/houses.txt
+[21:25:38] Reading File: properties/businesses.txt
+[21:25:38] Reading File: properties/banks.txt
+[21:25:38] Reading File: properties/police.txt
+[21:25:38] Script[gamemodes/basic.amx]: Run time error 19: "File or function is not found"
+[21:25:38] Number of vehicle models: 0
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:52] 
+[21:32:52] Server Plugins
+[21:32:52] --------------
+[21:32:52]  Loading plugin: sscanf.dll
+[21:32:52] 
+
+[21:32:52]  ===============================
+
+[21:32:52]       sscanf plugin loaded.     
+
+[21:32:52]          Version:  2.8.1        
+
+[21:32:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:52]  ===============================
+
+[21:32:52]   Loaded.
+[21:32:52]  Loaded 1 plugins.
+
+[21:32:52] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:52] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:52] 
+[21:32:52] Server Plugins
+[21:32:52] --------------
+[21:32:52]  Loading plugin: sscanf.dll
+[21:32:52] 
+
+[21:32:52]  ===============================
+
+[21:32:52]       sscanf plugin loaded.     
+
+[21:32:52]          Version:  2.8.1        
+
+[21:32:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:52]  ===============================
+
+[21:32:52]   Loaded.
+[21:32:52]  Loaded 1 plugins.
+
+[21:32:52] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:52] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:53] 
+[21:32:53] Server Plugins
+[21:32:53] --------------
+[21:32:53]  Loading plugin: sscanf.dll
+[21:32:53] 
+
+[21:32:53]  ===============================
+
+[21:32:53]       sscanf plugin loaded.     
+
+[21:32:53]          Version:  2.8.1        
+
+[21:32:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:53]  ===============================
+
+[21:32:53]   Loaded.
+[21:32:53]  Loaded 1 plugins.
+
+[21:32:53] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:53] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:55] 
+[21:32:55] Server Plugins
+[21:32:55] --------------
+[21:32:55]  Loading plugin: sscanf.dll
+[21:32:55] 
+
+[21:32:55]  ===============================
+
+[21:32:55]       sscanf plugin loaded.     
+
+[21:32:55]          Version:  2.8.1        
+
+[21:32:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:55]  ===============================
+
+[21:32:55]   Loaded.
+[21:32:55]  Loaded 1 plugins.
+
+[21:32:55] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:55] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:56] 
+[21:32:56] Server Plugins
+[21:32:56] --------------
+[21:32:56]  Loading plugin: sscanf.dll
+[21:32:56] 
+
+[21:32:56]  ===============================
+
+[21:32:56]       sscanf plugin loaded.     
+
+[21:32:56]          Version:  2.8.1        
+
+[21:32:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:56]  ===============================
+
+[21:32:56]   Loaded.
+[21:32:56]  Loaded 1 plugins.
+
+[21:32:56] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:56] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[21:32:57] 
+[21:32:57] Server Plugins
+[21:32:57] --------------
+[21:32:57]  Loading plugin: sscanf.dll
+[21:32:57] 
+
+[21:32:57]  ===============================
+
+[21:32:57]       sscanf plugin loaded.     
+
+[21:32:57]          Version:  2.8.1        
+
+[21:32:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:32:57]  ===============================
+
+[21:32:57]   Loaded.
+[21:32:57]  Loaded 1 plugins.
+
+[21:32:57] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:32:57] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[19:37:42] 
+[19:37:42] Server Plugins
+[19:37:42] --------------
+[19:37:42]  Loading plugin: sscanf.dll
+[19:37:42] 
+
+[19:37:42]  ===============================
+
+[19:37:42]       sscanf plugin loaded.     
+
+[19:37:42]          Version:  2.8.1        
+
+[19:37:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:37:42]  ===============================
+
+[19:37:42]   Loaded.
+[19:37:42]  Loaded 1 plugins.
+
+[19:37:42] 
+[19:37:42] Filterscripts
+[19:37:42] ---------------
+[19:37:42]   Loading filterscript 'gl_actions.amx'...
+[19:37:42]   Loading filterscript 'gl_realtime.amx'...
+[19:37:42]   Loading filterscript 'gl_property.amx'...
+[19:37:42] 
+-----------------------------------
+[19:37:42] Grand Larceny Property Filterscript		
+[19:37:42] -----------------------------------
+
+[19:37:42]   Loading filterscript 'gl_mapicon.amx'...
+[19:37:42]   Loading filterscript 'ls_elevator.amx'...
+[19:37:42]   Loading filterscript 'attachments.amx'...
+[19:37:42]   Loading filterscript 'skinchanger.amx'...
+[19:37:42] 
+--Admin Player Skin Changer Loaded
+
+[19:37:42]   Loading filterscript 'vspawner.amx'...
+[19:37:42] 
+--Admin Vehicle Spawner Loaded
+
+[19:37:42]   Loading filterscript 'ls_beachside.amx'...
+[19:37:42] 
+
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--- LS BeachSide Filterscript
+[19:37:42]   |--  Script v1.02
+[19:37:42]   |--  10th February 2015
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--  LS BeachSide Building and Interior objects created
+[19:37:42]   |--  LS BeachSide Underground Car Park object created
+[19:37:42]   |--  LS BeachSide Building Elevator created
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   Loading filterscript 'samp_anims.amx'...
+[19:37:42] 
+
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--- SA-MP Animations Filterscript by Matite
+[19:37:42]   |--  Script v1.01
+[19:37:42]   |--  12th January 2015
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   Loading filterscript 'test_cmds.amx'...
+[19:37:42]   Loading filterscript 'sf_building1.amx'...
+[19:37:42] 
+
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--- SF Building 1 Filterscript
+[19:37:42]   |--  Script v1.01
+[19:37:42]   |--  10th February 2015
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--  SF Building 1 Land object created
+[19:37:42]   |--  SF Building 1 Outside object created
+[19:37:42]   |--  SF Building 1 Inside object created
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   Loading filterscript 'ls_prisonwalls.amx'...
+[19:37:42] 
+
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--- LS Prison Walls Filterscript
+[19:37:42]   |--  Script v1.01
+[19:37:42]   |--  13th February 2015
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--  LS Prison Walls object created
+[19:37:42]   |--  LS Prison Walls Gates objects created
+[19:37:42]   |--  LS Prison Wall Gates 3D Text Labels created
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   Loading filterscript 'ls_mall.amx'...
+[19:37:42]   Loading filterscript 'modular_houses.amx'...
+[19:37:42] 
+
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   |--- Modular Houses Filterscript by Matite
+[19:37:42]   |--  Script v1.01
+[19:37:42]   |--  28th February 2015
+[19:37:42]   |---------------------------------------------------
+[19:37:42]   Loaded 15 filterscripts.
+
+[19:37:42]  
+[19:37:42]  
+[19:37:42]  
+[19:37:42]  ======================================= 
+[19:37:42]  |                                     | 
+[19:37:42]  |        YSI version 3.09.0684        | 
+[19:37:42]  |        By Alex "Y_Less" Cole        | 
+[19:37:42]  |                                     | 
+[19:37:42]  ======================================= 
+[19:37:42]  
+[19:37:42]  
+[19:37:42]  
+[19:37:42] Reading File: blank
+[19:37:42] Reading File: properties/houses.txt
+[19:37:42] Reading File: properties/businesses.txt
+[19:37:42] Reading File: properties/banks.txt
+[19:37:42] Reading File: properties/police.txt
+[19:37:42] 
+----------------------------------
+[19:37:42]  Roleplay
+[19:37:42] ----------------------------------
+
+[19:37:42] Number of vehicle models: 0
+[19:38:17] Incoming connection: 192.168.1.1:62773 id: 0
+[19:38:17] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.1)
+Console input: gmx
+[19:39:20]  
+[19:39:20]  
+[19:39:20]  
+[19:39:20]  ======================================= 
+[19:39:20]  |                                     | 
+[19:39:20]  |        YSI version 3.09.0684        | 
+[19:39:20]  |        By Alex "Y_Less" Cole        | 
+[19:39:20]  |                                     | 
+[19:39:20]  ======================================= 
+[19:39:20]  
+[19:39:20]  
+[19:39:20]  
+[19:39:20] Reading File: blank
+[19:39:20] Reading File: properties/houses.txt
+[19:39:20] Reading File: properties/businesses.txt
+[19:39:20] Reading File: properties/banks.txt
+[19:39:20] Reading File: properties/police.txt
+[19:39:20] 
+----------------------------------
+[19:39:20]  Roleplay
+[19:39:20] ----------------------------------
+
+[19:39:20] Number of vehicle models: 0
+[19:45:42] RCON Warn: There's been a payday
+[19:52:03] RCON Warn: There's been a payday
+[19:58:22] RCON Warn: There's been a payday
+[20:01:23] [part] Yoshi_Muramatsu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[15:22:09] 
+[15:22:09] Server Plugins
+[15:22:09] --------------
+[15:22:09]  Loading plugin: sscanf.dll
+[15:22:09] 
+
+[15:22:09]  ===============================
+
+[15:22:09]       sscanf plugin loaded.     
+
+[15:22:09]          Version:  2.8.1        
+
+[15:22:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:22:09]  ===============================
+
+[15:22:09]   Loaded.
+[15:22:09]  Loaded 1 plugins.
+
+[15:22:09] 
+[15:22:09] Filterscripts
+[15:22:09] ---------------
+[15:22:09]   Loading filterscript 'gl_actions.amx'...
+[15:22:09]   Loading filterscript 'gl_realtime.amx'...
+[15:22:09]   Loading filterscript 'gl_property.amx'...
+[15:22:09] 
+-----------------------------------
+[15:22:09] Grand Larceny Property Filterscript		
+[15:22:09] -----------------------------------
+
+[15:22:09]   Loading filterscript 'gl_mapicon.amx'...
+[15:22:09]   Loading filterscript 'ls_elevator.amx'...
+[15:22:09]   Loading filterscript 'attachments.amx'...
+[15:22:09]   Loading filterscript 'skinchanger.amx'...
+[15:22:09] 
+--Admin Player Skin Changer Loaded
+
+[15:22:09]   Loading filterscript 'vspawner.amx'...
+[15:22:09] 
+--Admin Vehicle Spawner Loaded
+
+[15:22:09]   Loading filterscript 'ls_beachside.amx'...
+[15:22:09] 
+
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--- LS BeachSide Filterscript
+[15:22:09]   |--  Script v1.02
+[15:22:09]   |--  10th February 2015
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--  LS BeachSide Building and Interior objects created
+[15:22:09]   |--  LS BeachSide Underground Car Park object created
+[15:22:09]   |--  LS BeachSide Building Elevator created
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   Loading filterscript 'samp_anims.amx'...
+[15:22:09] 
+
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--- SA-MP Animations Filterscript by Matite
+[15:22:09]   |--  Script v1.01
+[15:22:09]   |--  12th January 2015
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   Loading filterscript 'test_cmds.amx'...
+[15:22:09]   Loading filterscript 'sf_building1.amx'...
+[15:22:09] 
+
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--- SF Building 1 Filterscript
+[15:22:09]   |--  Script v1.01
+[15:22:09]   |--  10th February 2015
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--  SF Building 1 Land object created
+[15:22:09]   |--  SF Building 1 Outside object created
+[15:22:09]   |--  SF Building 1 Inside object created
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   Loading filterscript 'ls_prisonwalls.amx'...
+[15:22:09] 
+
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--- LS Prison Walls Filterscript
+[15:22:09]   |--  Script v1.01
+[15:22:09]   |--  13th February 2015
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--  LS Prison Walls object created
+[15:22:09]   |--  LS Prison Walls Gates objects created
+[15:22:09]   |--  LS Prison Wall Gates 3D Text Labels created
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   Loading filterscript 'ls_mall.amx'...
+[15:22:09]   Loading filterscript 'modular_houses.amx'...
+[15:22:09] 
+
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   |--- Modular Houses Filterscript by Matite
+[15:22:09]   |--  Script v1.01
+[15:22:09]   |--  28th February 2015
+[15:22:09]   |---------------------------------------------------
+[15:22:09]   Loaded 15 filterscripts.
+
+[15:22:09]  
+[15:22:09]  
+[15:22:09]  
+[15:22:09]  ======================================= 
+[15:22:09]  |                                     | 
+[15:22:09]  |        YSI version 3.09.0684        | 
+[15:22:09]  |        By Alex "Y_Less" Cole        | 
+[15:22:09]  |                                     | 
+[15:22:09]  ======================================= 
+[15:22:09]  
+[15:22:09]  
+[15:22:09]  
+[15:22:09] Reading File: blank
+[15:22:09] Reading File: properties/houses.txt
+[15:22:09] Reading File: properties/businesses.txt
+[15:22:09] Reading File: properties/banks.txt
+[15:22:09] Reading File: properties/police.txt
+[15:22:09] 
+----------------------------------
+[15:22:09]  Roleplay
+[15:22:09] ----------------------------------
+
+[15:22:09] Number of vehicle models: 0
+[15:22:36] Incoming connection: 192.168.1.4:57464 id: 0
+[15:22:37] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[15:23:56] RCON (In-Game): Player #0 (Yoshi_Muramatsu) has logged in.
+[15:24:00] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: gmx
+[15:24:12]  
+[15:24:12]  
+[15:24:12]  
+[15:24:12]  ======================================= 
+[15:24:12]  |                                     | 
+[15:24:12]  |        YSI version 3.09.0684        | 
+[15:24:12]  |        By Alex "Y_Less" Cole        | 
+[15:24:12]  |                                     | 
+[15:24:12]  ======================================= 
+[15:24:12]  
+[15:24:12]  
+[15:24:12]  
+[15:24:12] Reading File: blank
+[15:24:12] Reading File: properties/houses.txt
+[15:24:12] Reading File: properties/businesses.txt
+[15:24:12] Reading File: properties/banks.txt
+[15:24:12] Reading File: properties/police.txt
+[15:24:12] 
+----------------------------------
+[15:24:12]  Roleplay
+[15:24:12] ----------------------------------
+
+[15:24:12] Number of vehicle models: 0
+Console input: gmx
+[15:29:31]  
+[15:29:31]  
+[15:29:31]  
+[15:29:31]  ======================================= 
+[15:29:31]  |                                     | 
+[15:29:31]  |        YSI version 3.09.0684        | 
+[15:29:31]  |        By Alex "Y_Less" Cole        | 
+[15:29:31]  |                                     | 
+[15:29:31]  ======================================= 
+[15:29:31]  
+[15:29:31]  
+[15:29:31]  
+[15:29:31] Reading File: blank
+[15:29:31] Reading File: properties/houses.txt
+[15:29:31] Reading File: properties/businesses.txt
+[15:29:31] Reading File: properties/banks.txt
+[15:29:31] Reading File: properties/police.txt
+[15:29:31] 
+----------------------------------
+[15:29:31]  Roleplay
+[15:29:31] ----------------------------------
+
+[15:29:31] Number of vehicle models: 0
+[15:30:16] [part] Yoshi_Muramatsu has left the server (0:2)
+Console input: gmx
+[15:31:51]  
+[15:31:51]  
+[15:31:51]  
+[15:31:51]  ======================================= 
+[15:31:51]  |                                     | 
+[15:31:51]  |        YSI version 3.09.0684        | 
+[15:31:51]  |        By Alex "Y_Less" Cole        | 
+[15:31:51]  |                                     | 
+[15:31:51]  ======================================= 
+[15:31:51]  
+[15:31:51]  
+[15:31:51]  
+[15:31:51] Reading File: blank
+[15:31:51] Reading File: properties/houses.txt
+[15:31:51] Reading File: properties/businesses.txt
+[15:31:51] Reading File: properties/banks.txt
+[15:31:51] Reading File: properties/police.txt
+[15:31:51] 
+----------------------------------
+[15:31:51]  Roleplay
+[15:31:51] ----------------------------------
+
+[15:31:51] Number of vehicle models: 0
+Console input: gmx
+[15:34:20]  
+[15:34:20]  
+[15:34:20]  
+[15:34:20]  ======================================= 
+[15:34:20]  |                                     | 
+[15:34:20]  |        YSI version 3.09.0684        | 
+[15:34:20]  |        By Alex "Y_Less" Cole        | 
+[15:34:20]  |                                     | 
+[15:34:20]  ======================================= 
+[15:34:20]  
+[15:34:20]  
+[15:34:20]  
+[15:34:20] Reading File: blank
+[15:34:20] Reading File: properties/houses.txt
+[15:34:20] Reading File: properties/businesses.txt
+[15:34:20] Reading File: properties/banks.txt
+[15:34:20] Reading File: properties/police.txt
+[15:34:20] 
+----------------------------------
+[15:34:20]  Roleplay
+[15:34:20] ----------------------------------
+
+[15:34:20] Number of vehicle models: 0
+Console input: gmx
+[15:35:38]  
+[15:35:38]  
+[15:35:38]  
+[15:35:38]  ======================================= 
+[15:35:38]  |                                     | 
+[15:35:38]  |        YSI version 3.09.0684        | 
+[15:35:38]  |        By Alex "Y_Less" Cole        | 
+[15:35:38]  |                                     | 
+[15:35:38]  ======================================= 
+[15:35:38]  
+[15:35:38]  
+[15:35:38]  
+[15:35:38] Reading File: blank
+[15:35:38] Reading File: properties/houses.txt
+[15:35:38] Reading File: properties/businesses.txt
+[15:35:38] Reading File: properties/banks.txt
+[15:35:38] Reading File: properties/police.txt
+[15:35:38] 
+----------------------------------
+[15:35:38]  Roleplay
+[15:35:38] ----------------------------------
+
+[15:35:38] Number of vehicle models: 0
+[15:38:02] Incoming connection: 192.168.1.4:51277 id: 0
+[15:38:02] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[15:38:12] [part] Yoshi_Muramatsu has left the server (0:1)
+Console input: gmxgmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[15:39:19] 
+[15:39:19] Server Plugins
+[15:39:19] --------------
+[15:39:19]  Loading plugin: sscanf.dll
+[15:39:19] 
+
+[15:39:19]  ===============================
+
+[15:39:19]       sscanf plugin loaded.     
+
+[15:39:19]          Version:  2.8.1        
+
+[15:39:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:39:19]  ===============================
+
+[15:39:19]   Loaded.
+[15:39:19]  Loading plugin: Whirlpool
+[15:39:19]  
+[15:39:19]  ==================
+[15:39:19]  
+[15:39:19]   Whirlpool loaded
+[15:39:19]  
+[15:39:19]  ==================
+[15:39:19]  
+[15:39:19]   Loaded.
+[15:39:19]  Loaded 2 plugins.
+
+[15:39:19] 
+[15:39:19] Filterscripts
+[15:39:19] ---------------
+[15:39:19]   Loading filterscript 'LuxAdmin.amx'...
+[15:39:19] 
+ ___________________________________________________
+[15:39:19]  
+[15:39:19]                    L.A.S v1.6 Beta                         
+[15:39:19]                  ---------------
+[15:39:19]              LuX Administration System               
+[15:39:19]  ___________________________________________________
+
+[15:39:19]  -> Loading...
+[15:39:19] 
+ -Current Configurations Successfully Loaded!
+[15:39:19] 
+
+[15:39:19]  -> L.A.S Basic Loaded Configurations:
+
+[15:39:19]  AutoLogin:    [Enabled!]  ReadCmds:  [Enabled!]
+[15:39:19]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[15:39:19]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[15:39:19]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[15:39:19]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[15:39:19]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[15:39:19]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[15:39:19]  ReadPms:      [Enabled!]  MaxLevel:  [10]
+[15:39:19]  SaveWeaps     [Enabled!]  Max Ping:  [0ms]
+[15:39:19]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[15:39:19]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[15:39:19]  -> Loaded Successfully!
+
+[15:39:19]  Date: 14/3/2015 - Time: 15:39:19
+[15:39:19]  ___________________________________________________
+
+[15:39:19]   Loading filterscript 'gl_actions.amx'...
+[15:39:19]   Loading filterscript 'gl_realtime.amx'...
+[15:39:19]   Loading filterscript 'gl_property.amx'...
+[15:39:19] 
+-----------------------------------
+[15:39:19] Grand Larceny Property Filterscript		
+[15:39:19] -----------------------------------
+
+[15:39:19]   Loading filterscript 'gl_mapicon.amx'...
+[15:39:19]   Loading filterscript 'ls_elevator.amx'...
+[15:39:19]   Loading filterscript 'attachments.amx'...
+[15:39:19]   Loading filterscript 'skinchanger.amx'...
+[15:39:19] 
+--Admin Player Skin Changer Loaded
+
+[15:39:19]   Loading filterscript 'vspawner.amx'...
+[15:39:19] 
+--Admin Vehicle Spawner Loaded
+
+[15:39:19]   Loading filterscript 'ls_beachside.amx'...
+[15:39:19] 
+
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--- LS BeachSide Filterscript
+[15:39:19]   |--  Script v1.02
+[15:39:19]   |--  10th February 2015
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--  LS BeachSide Building and Interior objects created
+[15:39:19]   |--  LS BeachSide Underground Car Park object created
+[15:39:19]   |--  LS BeachSide Building Elevator created
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   Loading filterscript 'samp_anims.amx'...
+[15:39:19] 
+
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--- SA-MP Animations Filterscript by Matite
+[15:39:19]   |--  Script v1.01
+[15:39:19]   |--  12th January 2015
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   Loading filterscript 'test_cmds.amx'...
+[15:39:19]   Loading filterscript 'sf_building1.amx'...
+[15:39:19] 
+
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--- SF Building 1 Filterscript
+[15:39:19]   |--  Script v1.01
+[15:39:19]   |--  10th February 2015
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--  SF Building 1 Land object created
+[15:39:19]   |--  SF Building 1 Outside object created
+[15:39:19]   |--  SF Building 1 Inside object created
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   Loading filterscript 'ls_prisonwalls.amx'...
+[15:39:19] 
+
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--- LS Prison Walls Filterscript
+[15:39:19]   |--  Script v1.01
+[15:39:19]   |--  13th February 2015
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--  LS Prison Walls object created
+[15:39:19]   |--  LS Prison Walls Gates objects created
+[15:39:19]   |--  LS Prison Wall Gates 3D Text Labels created
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   Loading filterscript 'ls_mall.amx'...
+[15:39:19]   Loading filterscript 'modular_houses.amx'...
+[15:39:19] 
+
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   |--- Modular Houses Filterscript by Matite
+[15:39:19]   |--  Script v1.01
+[15:39:19]   |--  28th February 2015
+[15:39:19]   |---------------------------------------------------
+[15:39:19]   Loaded 16 filterscripts.
+
+[15:39:19]  
+[15:39:19]  
+[15:39:19]  
+[15:39:19]  ======================================= 
+[15:39:19]  |                                     | 
+[15:39:19]  |        YSI version 3.09.0684        | 
+[15:39:19]  |        By Alex "Y_Less" Cole        | 
+[15:39:19]  |                                     | 
+[15:39:19]  ======================================= 
+[15:39:19]  
+[15:39:19]  
+[15:39:19]  
+[15:39:19] Reading File: blank
+[15:39:19] Reading File: properties/houses.txt
+[15:39:19] Reading File: properties/businesses.txt
+[15:39:19] Reading File: properties/banks.txt
+[15:39:19] Reading File: properties/police.txt
+[15:39:19] 
+----------------------------------
+[15:39:19]  Roleplay
+[15:39:19] ----------------------------------
+
+[15:39:19] Number of vehicle models: 0
+[15:39:56] Incoming connection: 192.168.1.4:51457 id: 0
+[15:39:56] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[15:40:31] RCON (In-Game): Player #0 (Yoshi_Muramatsu) failed login.
+[15:40:33] RCON (In-Game): Player #0 (Yoshi_Muramatsu) has logged in.
+[15:44:20] [part] Yoshi_Muramatsu has left the server (0:1)
+[15:44:45] Incoming connection: 192.168.1.4:54564 id: 0
+[15:44:45] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[15:46:53] RCON (In-Game): Player #0 (Yoshi_Muramatsu) has logged in.
+[15:47:03] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: lrcon
+[15:47:03] ______________________
+[15:47:03]                       
+[15:47:03]  Rcon Commands        
+[15:47:03]  -------------        
+[15:47:03]  info, execcmd, pm, 	 
+[15:47:03]  asay, uconfig, chat, 
+[15:47:03]  aka, ann			 
+[15:47:03] ______________________
+[15:47:07] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: lrcon pm
+[15:47:10] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: pm
+[15:47:10] 
+--------------------------
+[15:47:10] Usage: "pm (PlayerID) (Message)"
+[15:47:10] Function: Will Send a private message for specified player
+[15:47:10] --------------------------
+
+[15:47:17] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: pm 0 h
+[15:47:17] Rcon PM '0 h' Sent!
+[15:47:24] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: aka
+[15:47:24] 
+--------------------------
+[15:47:24] Usage: "aka  (PlayerID)"
+[15:47:24] Function: Will show other names used per Specified Player
+[15:47:24] --------------------------
+
+[15:47:27] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: aka 0
+[15:47:27] AKA: [Yoshi_Muramatsu id:0] [192.168.1.4] Yoshi_Muramatsu
+[15:47:34] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: asay
+[15:47:34] 
+--------------------------
+[15:47:34] Usage: "asay  (Message)"
+[15:47:34] Function: Will Send a message for online Admins
+[15:47:34] --------------------------
+
+[15:47:36] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: asay Hello!
+[15:47:36] Admin Message 'Hello!' Sent!
+[15:47:46] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: ann
+[15:47:46] 
+--------------------------
+[15:47:46] Usage: "ann  (Message)"
+[15:47:46] Function: Will Send a message in screen for all Players
+[15:47:46] --------------------------
+
+[15:47:50] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: ann Alright, welcome everyone.
+[15:47:50] Screen Message 'Alright, welcome everyone.' Sent!
+[15:54:41] 
+ ___________________________________________________
+[15:54:41]  
+[15:54:41]                    L.A.S v1.6 Beta                         
+[15:54:41]                  -------------
+[15:54:41]              LuX Administration System               
+[15:54:41]  ___________________________________________________
+
+[15:54:41]  -> Unload!
+[15:54:41]   Filterscript 'LuxAdmin.amx' unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[15:54:53] 
+[15:54:53] Server Plugins
+[15:54:53] --------------
+[15:54:53]  Loading plugin: sscanf.dll
+[15:54:53] 
+
+[15:54:53]  ===============================
+
+[15:54:53]       sscanf plugin loaded.     
+
+[15:54:53]          Version:  2.8.1        
+
+[15:54:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:54:53]  ===============================
+
+[15:54:53]   Loaded.
+[15:54:53]  Loading plugin: Whirlpool
+[15:54:53]  
+[15:54:53]  ==================
+[15:54:53]  
+[15:54:53]   Whirlpool loaded
+[15:54:53]  
+[15:54:53]  ==================
+[15:54:53]  
+[15:54:53]   Loaded.
+[15:54:53]  Loaded 2 plugins.
+
+[15:54:53] 
+[15:54:53] Filterscripts
+[15:54:53] ---------------
+[15:54:53]   Loading filterscript 'LuxAdmin.amx'...
+[15:54:53] 
+ ___________________________________________________
+[15:54:53]  
+[15:54:53]                    L.A.S v1.6 Beta                         
+[15:54:53]                  ---------------
+[15:54:53]              LuX Administration System               
+[15:54:53]  ___________________________________________________
+
+[15:54:53]  -> Loading...
+[15:54:53] 
+ -Current Configurations Successfully Loaded!
+[15:54:53] 
+
+[15:54:53]  -> L.A.S Basic Loaded Configurations:
+
+[15:54:53]  AutoLogin:    [Disabled]  ReadCmds:  [Enabled!]
+[15:54:53]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[15:54:53]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[15:54:53]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[15:54:53]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[15:54:53]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[15:54:53]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[15:54:53]  ReadPms:      [Enabled!]  MaxLevel:  [10]
+[15:54:53]  SaveWeaps     [Enabled!]  Max Ping:  [500ms]
+[15:54:53]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[15:54:53]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[15:54:53]  -> Loaded Successfully!
+
+[15:54:53]  Date: 14/3/2015 - Time: 15:54:53
+[15:54:53]  ___________________________________________________
+
+[15:54:53]   Loading filterscript 'gl_actions.amx'...
+[15:54:53]   Loading filterscript 'gl_realtime.amx'...
+[15:54:53]   Loading filterscript 'gl_property.amx'...
+[15:54:53] 
+-----------------------------------
+[15:54:53] Grand Larceny Property Filterscript		
+[15:54:53] -----------------------------------
+
+[15:54:53]   Loading filterscript 'gl_mapicon.amx'...
+[15:54:53]   Loading filterscript 'ls_elevator.amx'...
+[15:54:53]   Loading filterscript 'attachments.amx'...
+[15:54:53]   Loading filterscript 'skinchanger.amx'...
+[15:54:53] 
+--Admin Player Skin Changer Loaded
+
+[15:54:53]   Loading filterscript 'vspawner.amx'...
+[15:54:53] 
+--Admin Vehicle Spawner Loaded
+
+[15:54:53]   Loading filterscript 'ls_beachside.amx'...
+[15:54:53] 
+
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--- LS BeachSide Filterscript
+[15:54:53]   |--  Script v1.02
+[15:54:53]   |--  10th February 2015
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--  LS BeachSide Building and Interior objects created
+[15:54:53]   |--  LS BeachSide Underground Car Park object created
+[15:54:53]   |--  LS BeachSide Building Elevator created
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   Loading filterscript 'samp_anims.amx'...
+[15:54:53] 
+
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--- SA-MP Animations Filterscript by Matite
+[15:54:53]   |--  Script v1.01
+[15:54:53]   |--  12th January 2015
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   Loading filterscript 'test_cmds.amx'...
+[15:54:53]   Loading filterscript 'sf_building1.amx'...
+[15:54:53] 
+
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--- SF Building 1 Filterscript
+[15:54:53]   |--  Script v1.01
+[15:54:53]   |--  10th February 2015
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--  SF Building 1 Land object created
+[15:54:53]   |--  SF Building 1 Outside object created
+[15:54:53]   |--  SF Building 1 Inside object created
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   Loading filterscript 'ls_prisonwalls.amx'...
+[15:54:53] 
+
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--- LS Prison Walls Filterscript
+[15:54:53]   |--  Script v1.01
+[15:54:53]   |--  13th February 2015
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--  LS Prison Walls object created
+[15:54:53]   |--  LS Prison Walls Gates objects created
+[15:54:53]   |--  LS Prison Wall Gates 3D Text Labels created
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   Loading filterscript 'ls_mall.amx'...
+[15:54:53]   Loading filterscript 'modular_houses.amx'...
+[15:54:53] 
+
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   |--- Modular Houses Filterscript by Matite
+[15:54:53]   |--  Script v1.01
+[15:54:53]   |--  28th February 2015
+[15:54:53]   |---------------------------------------------------
+[15:54:53]   Loaded 16 filterscripts.
+
+[15:54:53]  
+[15:54:53]  
+[15:54:53]  
+[15:54:53]  ======================================= 
+[15:54:53]  |                                     | 
+[15:54:53]  |        YSI version 3.09.0684        | 
+[15:54:53]  |        By Alex "Y_Less" Cole        | 
+[15:54:53]  |                                     | 
+[15:54:53]  ======================================= 
+[15:54:53]  
+[15:54:53]  
+[15:54:53]  
+[15:54:53] Reading File: blank
+[15:54:53] Reading File: properties/houses.txt
+[15:54:53] Reading File: properties/businesses.txt
+[15:54:53] Reading File: properties/banks.txt
+[15:54:53] Reading File: properties/police.txt
+[15:54:53] 
+----------------------------------
+[15:54:53]  Roleplay
+[15:54:53] ----------------------------------
+
+[15:54:53] Number of vehicle models: 0
+[15:54:56] Incoming connection: 192.168.1.4:53184 id: 0
+[15:54:56] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+Console input: ban 0
+[15:59:36] Yoshi_Muramatsu <#0 - 192.168.1.4> has been banned.
+[15:59:36] [part] Yoshi_Muramatsu has left the server (0:1)
+[15:59:36] [part] Yoshi_Muramatsu has left the server (0:2)
+Console input: unban 192.168.1.4
+Console input: gmx
+[16:02:29]  
+[16:02:29]  
+[16:02:29]  
+[16:02:29]  ======================================= 
+[16:02:29]  |                                     | 
+[16:02:29]  |        YSI version 3.09.0684        | 
+[16:02:29]  |        By Alex "Y_Less" Cole        | 
+[16:02:29]  |                                     | 
+[16:02:29]  ======================================= 
+[16:02:29]  
+[16:02:29]  
+[16:02:29]  
+[16:02:29] Reading File: blank
+[16:02:29] Reading File: properties/houses.txt
+[16:02:29] Reading File: properties/businesses.txt
+[16:02:29] Reading File: properties/banks.txt
+[16:02:29] Reading File: properties/police.txt
+[16:02:29] 
+----------------------------------
+[16:02:29]  Roleplay
+[16:02:29] ----------------------------------
+
+[16:02:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[16:07:26] 
+[16:07:26] Server Plugins
+[16:07:26] --------------
+[16:07:26]  Loading plugin: sscanf.dll
+[16:07:26] 
+
+[16:07:26]  ===============================
+
+[16:07:26]       sscanf plugin loaded.     
+
+[16:07:26]          Version:  2.8.1        
+
+[16:07:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:07:26]  ===============================
+
+[16:07:26]   Loaded.
+[16:07:26]  Loading plugin: Whirlpool
+[16:07:26]  
+[16:07:26]  ==================
+[16:07:26]  
+[16:07:26]   Whirlpool loaded
+[16:07:26]  
+[16:07:26]  ==================
+[16:07:26]  
+[16:07:26]   Loaded.
+[16:07:26]  Loaded 2 plugins.
+
+[16:07:26] 
+[16:07:26] Filterscripts
+[16:07:26] ---------------
+[16:07:26]   Loading filterscript 'LuxAdmin.amx'...
+[16:07:26] 
+ ___________________________________________________
+[16:07:26]  
+[16:07:26]                    L.A.S v1.6 Beta                         
+[16:07:26]                  ---------------
+[16:07:26]              LuX Administration System               
+[16:07:26]  ___________________________________________________
+
+[16:07:26]  -> Loading...
+[16:07:26] 
+ -Current Configurations Successfully Loaded!
+[16:07:26] 
+
+[16:07:26]  -> L.A.S Basic Loaded Configurations:
+
+[16:07:26]  AutoLogin:    [Disabled]  ReadCmds:  [Enabled!]
+[16:07:26]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[16:07:26]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[16:07:26]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[16:07:26]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[16:07:26]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[16:07:26]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[16:07:26]  ReadPms:      [Enabled!]  MaxLevel:  [5]
+[16:07:26]  SaveWeaps     [Enabled!]  Max Ping:  [500ms]
+[16:07:26]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[16:07:26]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[16:07:26]  -> Loaded Successfully!
+
+[16:07:26]  Date: 14/3/2015 - Time: 16:7:26
+[16:07:26]  ___________________________________________________
+
+[16:07:26]   Loading filterscript 'gl_actions.amx'...
+[16:07:26]   Loading filterscript 'gl_realtime.amx'...
+[16:07:26]   Loading filterscript 'gl_property.amx'...
+[16:07:26] 
+-----------------------------------
+[16:07:26] Grand Larceny Property Filterscript		
+[16:07:26] -----------------------------------
+
+[16:07:26]   Loading filterscript 'gl_mapicon.amx'...
+[16:07:26]   Loading filterscript 'ls_elevator.amx'...
+[16:07:26]   Loading filterscript 'attachments.amx'...
+[16:07:26]   Loading filterscript 'skinchanger.amx'...
+[16:07:26] 
+--Admin Player Skin Changer Loaded
+
+[16:07:26]   Loading filterscript 'vspawner.amx'...
+[16:07:26] 
+--Admin Vehicle Spawner Loaded
+
+[16:07:26]   Loading filterscript 'ls_beachside.amx'...
+[16:07:26] 
+
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--- LS BeachSide Filterscript
+[16:07:26]   |--  Script v1.02
+[16:07:26]   |--  10th February 2015
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--  LS BeachSide Building and Interior objects created
+[16:07:26]   |--  LS BeachSide Underground Car Park object created
+[16:07:26]   |--  LS BeachSide Building Elevator created
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   Loading filterscript 'samp_anims.amx'...
+[16:07:26] 
+
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--- SA-MP Animations Filterscript by Matite
+[16:07:26]   |--  Script v1.01
+[16:07:26]   |--  12th January 2015
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   Loading filterscript 'test_cmds.amx'...
+[16:07:26]   Loading filterscript 'sf_building1.amx'...
+[16:07:26] 
+
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--- SF Building 1 Filterscript
+[16:07:26]   |--  Script v1.01
+[16:07:26]   |--  10th February 2015
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--  SF Building 1 Land object created
+[16:07:26]   |--  SF Building 1 Outside object created
+[16:07:26]   |--  SF Building 1 Inside object created
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   Loading filterscript 'ls_prisonwalls.amx'...
+[16:07:26] 
+
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--- LS Prison Walls Filterscript
+[16:07:26]   |--  Script v1.01
+[16:07:26]   |--  13th February 2015
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--  LS Prison Walls object created
+[16:07:26]   |--  LS Prison Walls Gates objects created
+[16:07:26]   |--  LS Prison Wall Gates 3D Text Labels created
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   Loading filterscript 'ls_mall.amx'...
+[16:07:26]   Loading filterscript 'modular_houses.amx'...
+[16:07:26] 
+
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   |--- Modular Houses Filterscript by Matite
+[16:07:26]   |--  Script v1.01
+[16:07:26]   |--  28th February 2015
+[16:07:26]   |---------------------------------------------------
+[16:07:26]   Loaded 16 filterscripts.
+
+[16:07:26]  
+[16:07:26]  
+[16:07:26]  
+[16:07:26]  ======================================= 
+[16:07:26]  |                                     | 
+[16:07:26]  |        YSI version 3.09.0684        | 
+[16:07:26]  |        By Alex "Y_Less" Cole        | 
+[16:07:26]  |                                     | 
+[16:07:26]  ======================================= 
+[16:07:26]  
+[16:07:26]  
+[16:07:26]  
+[16:07:26] Reading File: blank
+[16:07:26] Reading File: properties/houses.txt
+[16:07:26] Reading File: properties/businesses.txt
+[16:07:26] Reading File: properties/banks.txt
+[16:07:26] Reading File: properties/police.txt
+[16:07:26] 
+----------------------------------
+[16:07:26]  Roleplay
+[16:07:26] ----------------------------------
+
+[16:07:26] Number of vehicle models: 0
+[16:07:48] Incoming connection: 192.168.1.4:60482 id: 0
+[16:07:48] [join] Madison_Diaz has joined the server (0:192.168.1.4)
+[16:08:02] [part] Madison_Diaz has left the server (0:0)
+[16:08:18] Incoming connection: 192.168.1.4:61939 id: 0
+[16:08:19] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[16:08:35] RCON (In-Game): Player #0 (Yoshi_Muramatsu) has logged in.
+Console input: gmx
+[16:12:33]  
+[16:12:33]  
+[16:12:33]  
+[16:12:33]  ======================================= 
+[16:12:33]  |                                     | 
+[16:12:33]  |        YSI version 3.09.0684        | 
+[16:12:33]  |        By Alex "Y_Less" Cole        | 
+[16:12:33]  |                                     | 
+[16:12:33]  ======================================= 
+[16:12:33]  
+[16:12:33]  
+[16:12:34]  
+[16:12:34] Reading File: blank
+[16:12:34] Reading File: properties/houses.txt
+[16:12:34] Reading File: properties/businesses.txt
+[16:12:34] Reading File: properties/banks.txt
+[16:12:34] Reading File: properties/police.txt
+[16:12:34] 
+----------------------------------
+[16:12:34]  Roleplay
+[16:12:34] ----------------------------------
+
+[16:12:34] Number of vehicle models: 0
+Console input: load luxadmin
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[16:13:59] 
+[16:13:59] Server Plugins
+[16:13:59] --------------
+[16:13:59]  Loading plugin: sscanf.dll
+[16:13:59] 
+
+[16:13:59]  ===============================
+
+[16:13:59]       sscanf plugin loaded.     
+
+[16:13:59]          Version:  2.8.1        
+
+[16:13:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:13:59]  ===============================
+
+[16:13:59]   Loaded.
+[16:13:59]  Loading plugin: Whirlpool
+[16:13:59]  
+[16:13:59]  ==================
+[16:13:59]  
+[16:13:59]   Whirlpool loaded
+[16:13:59]  
+[16:13:59]  ==================
+[16:13:59]  
+[16:13:59]   Loaded.
+[16:13:59]  Loaded 2 plugins.
+
+[16:13:59] 
+[16:13:59] Filterscripts
+[16:13:59] ---------------
+[16:13:59]   Loading filterscript 'LuxAdmin.amx'...
+[16:13:59] 
+ ___________________________________________________
+[16:13:59]  
+[16:13:59]                    L.A.S v1.6 Beta                         
+[16:13:59]                  ---------------
+[16:13:59]              LuX Administration System               
+[16:13:59]  ___________________________________________________
+
+[16:13:59]  -> Loading...
+[16:13:59] 
+ -Current Configurations Successfully Loaded!
+[16:13:59] 
+
+[16:13:59]  -> L.A.S Basic Loaded Configurations:
+
+[16:13:59]  AutoLogin:    [Disabled]  ReadCmds:  [Enabled!]
+[16:13:59]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[16:13:59]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[16:13:59]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[16:13:59]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[16:13:59]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[16:13:59]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[16:13:59]  ReadPms:      [Enabled!]  MaxLevel:  [5]
+[16:13:59]  SaveWeaps     [Enabled!]  Max Ping:  [500ms]
+[16:13:59]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[16:13:59]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[16:13:59]  -> Loaded Successfully!
+
+[16:13:59]  Date: 14/3/2015 - Time: 16:13:59
+[16:13:59]  ___________________________________________________
+
+[16:13:59]   Loading filterscript 'gl_actions.amx'...
+[16:13:59]   Loading filterscript 'gl_realtime.amx'...
+[16:13:59]   Loading filterscript 'gl_property.amx'...
+[16:13:59] 
+-----------------------------------
+[16:13:59] Grand Larceny Property Filterscript		
+[16:13:59] -----------------------------------
+
+[16:13:59]   Loading filterscript 'gl_mapicon.amx'...
+[16:13:59]   Loading filterscript 'ls_elevator.amx'...
+[16:13:59]   Loading filterscript 'attachments.amx'...
+[16:13:59]   Loading filterscript 'skinchanger.amx'...
+[16:13:59] 
+--Admin Player Skin Changer Loaded
+
+[16:13:59]   Loading filterscript 'vspawner.amx'...
+[16:13:59] 
+--Admin Vehicle Spawner Loaded
+
+[16:13:59]   Loading filterscript 'ls_beachside.amx'...
+[16:13:59] 
+
+[16:13:59]   |---------------------------------------------------
+[16:13:59]   |--- LS BeachSide Filterscript
+[16:13:59]   |--  Script v1.02
+[16:13:59]   |--  10th February 2015
+[16:13:59]   |---------------------------------------------------
+[16:13:59]   |--  LS BeachSide Building and Interior objects created
+[16:13:59]   |--  LS BeachSide Underground Car Park object created
+[16:13:59]   |--  LS BeachSide Building Elevator created
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   Loading filterscript 'samp_anims.amx'...
+[16:14:00] 
+
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--- SA-MP Animations Filterscript by Matite
+[16:14:00]   |--  Script v1.01
+[16:14:00]   |--  12th January 2015
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   Loading filterscript 'test_cmds.amx'...
+[16:14:00]   Loading filterscript 'sf_building1.amx'...
+[16:14:00] 
+
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--- SF Building 1 Filterscript
+[16:14:00]   |--  Script v1.01
+[16:14:00]   |--  10th February 2015
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--  SF Building 1 Land object created
+[16:14:00]   |--  SF Building 1 Outside object created
+[16:14:00]   |--  SF Building 1 Inside object created
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   Loading filterscript 'ls_prisonwalls.amx'...
+[16:14:00] 
+
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--- LS Prison Walls Filterscript
+[16:14:00]   |--  Script v1.01
+[16:14:00]   |--  13th February 2015
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--  LS Prison Walls object created
+[16:14:00]   |--  LS Prison Walls Gates objects created
+[16:14:00]   |--  LS Prison Wall Gates 3D Text Labels created
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   Loading filterscript 'ls_mall.amx'...
+[16:14:00]   Loading filterscript 'modular_houses.amx'...
+[16:14:00] 
+
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   |--- Modular Houses Filterscript by Matite
+[16:14:00]   |--  Script v1.01
+[16:14:00]   |--  28th February 2015
+[16:14:00]   |---------------------------------------------------
+[16:14:00]   Loaded 16 filterscripts.
+
+[16:14:00]  
+[16:14:00]  
+[16:14:00]  
+[16:14:00]  ======================================= 
+[16:14:00]  |                                     | 
+[16:14:00]  |        YSI version 3.09.0684        | 
+[16:14:00]  |        By Alex "Y_Less" Cole        | 
+[16:14:00]  |                                     | 
+[16:14:00]  ======================================= 
+[16:14:00]  
+[16:14:00]  
+[16:14:00]  
+[16:14:00] Reading File: blank
+[16:14:00] Reading File: properties/houses.txt
+[16:14:00] Reading File: properties/businesses.txt
+[16:14:00] Reading File: properties/banks.txt
+[16:14:00] Reading File: properties/police.txt
+[16:14:00] 
+----------------------------------
+[16:14:00]  Roleplay
+[16:14:00] ----------------------------------
+
+[16:14:00] Number of vehicle models: 0
+[16:15:48] Incoming connection: 192.168.1.4:63902 id: 0
+[16:15:49] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.4)
+[16:32:41] RCON (In-Game): Player #0 (Yoshi_Muramatsu) has logged in.
+[16:32:49] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: gmx
+[16:33:01]  
+[16:33:01]  
+[16:33:01]  
+[16:33:01]  ======================================= 
+[16:33:01]  |                                     | 
+[16:33:01]  |        YSI version 3.09.0684        | 
+[16:33:01]  |        By Alex "Y_Less" Cole        | 
+[16:33:01]  |                                     | 
+[16:33:01]  ======================================= 
+[16:33:01]  
+[16:33:01]  
+[16:33:01]  
+[16:33:01] Reading File: blank
+[16:33:01] Reading File: properties/houses.txt
+[16:33:01] Reading File: properties/businesses.txt
+[16:33:01] Reading File: properties/banks.txt
+[16:33:01] Reading File: properties/police.txt
+[16:33:01] 
+----------------------------------
+[16:33:01]  Roleplay
+[16:33:01] ----------------------------------
+
+[16:33:01] Number of vehicle models: 0
+[16:33:54] [part] Yoshi_Muramatsu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[16:08:24] 
+[16:08:24] Server Plugins
+[16:08:24] --------------
+[16:08:24]  Loading plugin: sscanf.dll
+[16:08:24] 
+
+[16:08:24]  ===============================
+
+[16:08:24]       sscanf plugin loaded.     
+
+[16:08:24]          Version:  2.8.1        
+
+[16:08:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:08:24]  ===============================
+
+[16:08:24]   Loaded.
+[16:08:24]  Loading plugin: Whirlpool
+[16:08:24]  
+[16:08:24]  ==================
+[16:08:24]  
+[16:08:24]   Whirlpool loaded
+[16:08:24]  
+[16:08:24]  ==================
+[16:08:24]  
+[16:08:24]   Loaded.
+[16:08:24]  Loaded 2 plugins.
+
+[16:08:25] 
+[16:08:25] Filterscripts
+[16:08:25] ---------------
+[16:08:25]   Loading filterscript 'LuxAdmin.amx'...
+[16:08:25] 
+ ___________________________________________________
+[16:08:25]  
+[16:08:25]                    L.A.S v1.6 Beta                         
+[16:08:25]                  ---------------
+[16:08:25]              LuX Administration System               
+[16:08:25]  ___________________________________________________
+
+[16:08:25]  -> Loading...
+[16:08:25] 
+ -Current Configurations Successfully Loaded!
+[16:08:25] 
+
+[16:08:25]  -> L.A.S Basic Loaded Configurations:
+
+[16:08:25]  AutoLogin:    [Disabled]  ReadCmds:  [Enabled!]
+[16:08:25]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[16:08:25]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[16:08:25]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[16:08:25]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[16:08:25]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[16:08:25]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[16:08:25]  ReadPms:      [Enabled!]  MaxLevel:  [5]
+[16:08:25]  SaveWeaps     [Enabled!]  Max Ping:  [500ms]
+[16:08:25]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[16:08:25]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[16:08:25]  -> Loaded Successfully!
+
+[16:08:25]  Date: 16/3/2015 - Time: 16:8:25
+[16:08:25]  ___________________________________________________
+
+[16:08:25]   Loading filterscript 'gl_actions.amx'...
+[16:08:25]   Loading filterscript 'gl_realtime.amx'...
+[16:08:25]   Loading filterscript 'gl_property.amx'...
+[16:08:25] 
+-----------------------------------
+[16:08:25] Grand Larceny Property Filterscript		
+[16:08:25] -----------------------------------
+
+[16:08:25]   Loading filterscript 'gl_mapicon.amx'...
+[16:08:25]   Loading filterscript 'ls_elevator.amx'...
+[16:08:25]   Loading filterscript 'attachments.amx'...
+[16:08:25]   Loading filterscript 'skinchanger.amx'...
+[16:08:25] 
+--Admin Player Skin Changer Loaded
+
+[16:08:25]   Loading filterscript 'vspawner.amx'...
+[16:08:25] 
+--Admin Vehicle Spawner Loaded
+
+[16:08:25]   Loading filterscript 'ls_beachside.amx'...
+[16:08:25] 
+
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--- LS BeachSide Filterscript
+[16:08:25]   |--  Script v1.02
+[16:08:25]   |--  10th February 2015
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--  LS BeachSide Building and Interior objects created
+[16:08:25]   |--  LS BeachSide Underground Car Park object created
+[16:08:25]   |--  LS BeachSide Building Elevator created
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   Loading filterscript 'samp_anims.amx'...
+[16:08:25] 
+
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--- SA-MP Animations Filterscript by Matite
+[16:08:25]   |--  Script v1.01
+[16:08:25]   |--  12th January 2015
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   Loading filterscript 'test_cmds.amx'...
+[16:08:25]   Loading filterscript 'sf_building1.amx'...
+[16:08:25] 
+
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--- SF Building 1 Filterscript
+[16:08:25]   |--  Script v1.01
+[16:08:25]   |--  10th February 2015
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--  SF Building 1 Land object created
+[16:08:25]   |--  SF Building 1 Outside object created
+[16:08:25]   |--  SF Building 1 Inside object created
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   Loading filterscript 'ls_prisonwalls.amx'...
+[16:08:25] 
+
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--- LS Prison Walls Filterscript
+[16:08:25]   |--  Script v1.01
+[16:08:25]   |--  13th February 2015
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--  LS Prison Walls object created
+[16:08:25]   |--  LS Prison Walls Gates objects created
+[16:08:25]   |--  LS Prison Wall Gates 3D Text Labels created
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   Loading filterscript 'ls_mall.amx'...
+[16:08:25]   Loading filterscript 'modular_houses.amx'...
+[16:08:25] 
+
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   |--- Modular Houses Filterscript by Matite
+[16:08:25]   |--  Script v1.01
+[16:08:25]   |--  28th February 2015
+[16:08:25]   |---------------------------------------------------
+[16:08:25]   Loaded 16 filterscripts.
+
+[16:08:25]  
+[16:08:25]  
+[16:08:25]  
+[16:08:25]  ======================================= 
+[16:08:25]  |                                     | 
+[16:08:25]  |        YSI version 3.09.0684        | 
+[16:08:25]  |        By Alex "Y_Less" Cole        | 
+[16:08:25]  |                                     | 
+[16:08:25]  ======================================= 
+[16:08:25]  
+[16:08:25]  
+[16:08:25]  
+[16:08:25] Reading File: blank
+[16:08:25] Reading File: properties/houses.txt
+[16:08:25] Reading File: properties/businesses.txt
+[16:08:25] Reading File: properties/banks.txt
+[16:08:25] Reading File: properties/police.txt
+[16:08:25] 
+----------------------------------
+[16:08:25]  Roleplay
+[16:08:25] ----------------------------------
+
+[16:08:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC2, (C)2005-2015 SA-MP Team
+
+[16:10:45] 
+[16:10:45] Server Plugins
+[16:10:45] --------------
+[16:10:45]  Loading plugin: sscanf.dll
+[16:10:45] 
+
+[16:10:45]  ===============================
+
+[16:10:45]       sscanf plugin loaded.     
+
+[16:10:45]          Version:  2.8.1        
+
+[16:10:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:10:45]  ===============================
+
+[16:10:45]   Loaded.
+[16:10:45]  Loading plugin: Whirlpool
+[16:10:45]  
+[16:10:45]  ==================
+[16:10:45]  
+[16:10:45]   Whirlpool loaded
+[16:10:45]  
+[16:10:45]  ==================
+[16:10:45]  
+[16:10:45]   Loaded.
+[16:10:45]  Loaded 2 plugins.
+
+[16:10:45] 
+[16:10:45] Filterscripts
+[16:10:45] ---------------
+[16:10:45]   Loading filterscript 'LuxAdmin.amx'...
+[16:10:46] 
+ ___________________________________________________
+[16:10:46]  
+[16:10:46]                    L.A.S v1.6 Beta                         
+[16:10:46]                  ---------------
+[16:10:46]              LuX Administration System               
+[16:10:46]  ___________________________________________________
+
+[16:10:46]  -> Loading...
+[16:10:46] 
+ -Current Configurations Successfully Loaded!
+[16:10:46] 
+
+[16:10:46]  -> L.A.S Basic Loaded Configurations:
+
+[16:10:46]  AutoLogin:    [Disabled]  ReadCmds:  [Enabled!]
+[16:10:46]  AntiSwear:    [Disabled]  AntiSpam:  [Enabled!]
+[16:10:46]  NameKick:     [Enabled!]  AntiBot:   [Enabled!]
+[16:10:46]  ConnectMsgs:  [Enabled!]  NoCaps:    [Disabled]
+[16:10:46]  AdminCmdMsgs: [Enabled!]  Anti Ads:  [Enabled!]
+[16:10:46]  SaveMoney:    [Enabled!]  MustLogin  [Enabled!]
+[16:10:46]  Forbid Weaps: [Disabled]  AdmSkins:  [Disabled]
+[16:10:46]  ReadPms:      [Enabled!]  MaxLevel:  [5]
+[16:10:46]  SaveWeaps     [Enabled!]  Max Ping:  [500ms]
+[16:10:46]  ChatDisabled: [Disabled]  MuteWarns: [4]
+[16:10:46]  MustRegister: [Enabled!]  AdmSkins   [217, 214]
+
+[16:10:46]  -> Loaded Successfully!
+
+[16:10:46]  Date: 16/3/2015 - Time: 16:10:46
+[16:10:46]  ___________________________________________________
+
+[16:10:46]   Loading filterscript 'gl_actions.amx'...
+[16:10:46]   Loading filterscript 'gl_realtime.amx'...
+[16:10:46]   Loading filterscript 'gl_property.amx'...
+[16:10:46] 
+-----------------------------------
+[16:10:46] Grand Larceny Property Filterscript		
+[16:10:46] -----------------------------------
+
+[16:10:46]   Loading filterscript 'gl_mapicon.amx'...
+[16:10:46]   Loading filterscript 'ls_elevator.amx'...
+[16:10:46]   Loading filterscript 'attachments.amx'...
+[16:10:46]   Loading filterscript 'skinchanger.amx'...
+[16:10:46] 
+--Admin Player Skin Changer Loaded
+
+[16:10:46]   Loading filterscript 'vspawner.amx'...
+[16:10:46] 
+--Admin Vehicle Spawner Loaded
+
+[16:10:46]   Loading filterscript 'ls_beachside.amx'...
+[16:10:46] 
+
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--- LS BeachSide Filterscript
+[16:10:46]   |--  Script v1.02
+[16:10:46]   |--  10th February 2015
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--  LS BeachSide Building and Interior objects created
+[16:10:46]   |--  LS BeachSide Underground Car Park object created
+[16:10:46]   |--  LS BeachSide Building Elevator created
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   Loading filterscript 'samp_anims.amx'...
+[16:10:46] 
+
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--- SA-MP Animations Filterscript by Matite
+[16:10:46]   |--  Script v1.01
+[16:10:46]   |--  12th January 2015
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   Loading filterscript 'test_cmds.amx'...
+[16:10:46]   Loading filterscript 'sf_building1.amx'...
+[16:10:46] 
+
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--- SF Building 1 Filterscript
+[16:10:46]   |--  Script v1.01
+[16:10:46]   |--  10th February 2015
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--  SF Building 1 Land object created
+[16:10:46]   |--  SF Building 1 Outside object created
+[16:10:46]   |--  SF Building 1 Inside object created
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   Loading filterscript 'ls_prisonwalls.amx'...
+[16:10:46] 
+
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--- LS Prison Walls Filterscript
+[16:10:46]   |--  Script v1.01
+[16:10:46]   |--  13th February 2015
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--  LS Prison Walls object created
+[16:10:46]   |--  LS Prison Walls Gates objects created
+[16:10:46]   |--  LS Prison Wall Gates 3D Text Labels created
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   Loading filterscript 'ls_mall.amx'...
+[16:10:46]   Loading filterscript 'modular_houses.amx'...
+[16:10:46] 
+
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   |--- Modular Houses Filterscript by Matite
+[16:10:46]   |--  Script v1.01
+[16:10:46]   |--  28th February 2015
+[16:10:46]   |---------------------------------------------------
+[16:10:46]   Loaded 16 filterscripts.
+
+[16:10:46]  
+[16:10:46]  
+[16:10:46]  
+[16:10:46]  ======================================= 
+[16:10:46]  |                                     | 
+[16:10:46]  |        YSI version 3.09.0684        | 
+[16:10:46]  |        By Alex "Y_Less" Cole        | 
+[16:10:46]  |                                     | 
+[16:10:46]  ======================================= 
+[16:10:46]  
+[16:10:46]  
+[16:10:46]  
+[16:10:46] Reading File: blank
+[16:10:46] Reading File: properties/houses.txt
+[16:10:46] Reading File: properties/businesses.txt
+[16:10:46] Reading File: properties/banks.txt
+[16:10:46] Reading File: properties/police.txt
+[16:10:46] 
+----------------------------------
+[16:10:46]  Roleplay
+[16:10:46] ----------------------------------
+
+[16:10:46] Number of vehicle models: 0
+[16:11:42] Incoming connection: 25.151.134.213:57306 id: 0
+[16:11:42] [join] Ryan_Kingstone has joined the server (0:25.151.134.213)
+[16:11:59] Incoming connection: 192.168.1.5:56271 id: 1
+[16:11:59] [join] Yoshi_Muramatsu has joined the server (1:192.168.1.5)
+[16:17:30] |- Ryan_Kingstone has been kicked by Administrator Yoshi_Muramatsu | Reason: OOC insults towards an admin. -|
+[16:17:30] [part] Ryan_Kingstone has left the server (0:2)
+[16:18:12] Incoming connection: 25.151.134.213:65460 id: 0
+[16:18:12] [join] Ryan_Kingstone has joined the server (0:25.151.134.213)
+[16:20:58] RCON (In-Game): Player #1 (Yoshi_Muramatsu) has logged in.
+[16:21:02] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: lrcon
+[16:21:02] ______________________
+[16:21:02]                       
+[16:21:02]  Rcon Commands        
+[16:21:02]  -------------        
+[16:21:02]  info, execcmd, pm, 	 
+[16:21:02]  asay, uconfig, chat, 
+[16:21:02]  aka, ann			 
+[16:21:02] ______________________
+[16:21:10] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: ann Test
+[16:21:10] Screen Message 'Test' Sent!
+[16:21:20] RCON (In-Game): Player [Yoshi_Muramatsu] sent command: ann I will find you
+[16:21:20] Screen Message 'I will find you' Sent!
+[16:24:39] [part] Ryan_Kingstone has left the server (0:1)
+[16:25:08] [part] Yoshi_Muramatsu has left the server (1:1)
+Console input: gmx
+[16:28:24]  
+[16:28:24]  
+[16:28:24]  
+[16:28:24]  ======================================= 
+[16:28:24]  |                                     | 
+[16:28:24]  |        YSI version 3.09.0684        | 
+[16:28:24]  |        By Alex "Y_Less" Cole        | 
+[16:28:24]  |                                     | 
+[16:28:24]  ======================================= 
+[16:28:24]  
+[16:28:24]  
+[16:28:24]  
+[16:28:24] Reading File: blank
+[16:28:24] Reading File: properties/houses.txt
+[16:28:24] Reading File: properties/businesses.txt
+[16:28:24] Reading File: properties/banks.txt
+[16:28:24] Reading File: properties/police.txt
+[16:28:24] 
+----------------------------------
+[16:28:24]  Roleplay
+[16:28:24] ----------------------------------
+
+[16:28:24] Number of vehicle models: 0
+[16:29:00] Incoming connection: 192.168.1.5:57968 id: 0
+[16:29:00] [join] Yoshi_Muramatsu has joined the server (0:192.168.1.5)
+[16:29:16] ((OOC - Yoshi_Muramatsu: yest))
+[16:29:18] ((OOC - : Testing))
+[16:30:02] ((OOC - : Test one two thre))
+[16:30:05] ((OOC - Yoshi_Muramatsu: test))
+[16:30:09] ((OOC - : testi))
+[16:30:10] ((OOC - Yoshi_Muramatsu: test))
+[16:30:13] [part] Yoshi_Muramatsu has left the server (0:1)
